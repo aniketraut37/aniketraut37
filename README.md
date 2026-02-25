@@ -1,23 +1,33 @@
-<h1 align="center"> ANIKET RAUT </h1>
+<h1 align="center">Aniket Raut</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Engineering+Specialist;AI+Integration+Engineer;Vue+Node+PostgreSQL+Developer" />
+Full Stack Developer • Data Engineering • AI Integration
 </p>
 
 <p align="center">
-Modern Data Systems • AI Integration • Production Applications
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&color=3BA4F2&center=true&vCenter=true&width=600&lines=Building+Data+Driven+Applications;Vue+Node+PostgreSQL+Developer;Healthcare+Data+Integration;AI+Powered+Systems">
 </p>
 
 ---
 
-## ⚙️ SYSTEM PROFILE
+## About Me
 
+Full Stack Developer focused on building **production-ready applications** combining modern web technologies with **data engineering and AI workflows**.
+
+Core areas:
+
+- Scalable backend systems
+- Data automation pipelines
+- Healthcare data integration (FHIR / OpenEHR)
+- Analytics dashboards
+- AI-powered applications
 
 ---
 
-## 🚀 TECH STACK
+## Tech Stack
 
 ### Frontend
+
 ![Vue](https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=42b883)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
@@ -42,7 +52,7 @@ Modern Data Systems • AI Integration • Production Applications
 
 ---
 
-### Data & AI
+### Data & Analytics
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python)
 
@@ -52,71 +62,79 @@ Modern Data Systems • AI Integration • Production Applications
 
 ---
 
-## 🧠 ACTIVE PROJECTS
+## Key Projects
 
-⚡ Healthcare Data Integration  
-- FHIR Systems  
-- OpenEHR Platform  
-- Patient Data Processing  
+### Healthcare Systems
 
-⚡ Data Platforms  
+- FHIR Patient Integration
+- OpenEHR Platform Integration
+- Patient Data Processing Systems
+- Medical Data Workflows
 
-- Air Quality Monitoring  
-- SQL Automation Pipelines  
-- Power BI Dashboards
+### Data Platforms
 
-⚡ Applications
+- Air Quality Monitoring Automation
+- SQL Data Pipelines
+- Power BI Analytics Systems
+- Excel Automation Pipelines
+
+### Applications
 
 - Mess Management System
-- Analytics Platforms
+- Dashboard Platforms
+- Data Management Systems
 
 ---
 
-## 📊 SYSTEM METRICS
+## Engineering Focus
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aniketraut37&show_icons=true&theme=tokyonight&border_radius=10">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraut37&layout=compact&theme=tokyonight&border_radius=10">
-
-</p>
+- Clean Architecture
+- Production-ready code
+- Scalable backend design
+- Database optimization
+- Automation-first approach
 
 ---
 
-## 🔥 ACTIVITY GRAPH
+## System Metrics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketraut37&theme=tokyo-night">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=aniketraut37&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketraut37&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🧭 CURRENT FOCUS
-
-⚡ AI-powered applications  
-⚡ Healthcare Integration  
-⚡ Data Automation  
-⚡ Scalable Backend Systems
-
----
-
-## 👁 PROFILE VIEWS
+## Development Activity
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=aniketraut37&color=00F7FF&style=for-the-badge">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketraut37&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## Current Focus
+
+- AI Integration
+- Healthcare Data Systems
+- Data Automation
+- Dashboard Engineering
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=aniketraut37&style=for-the-badge&color=3BA4F2"/>
 
 </p>
 
 ---
 
 <p align="center">
-⚡ Building Future Ready Systems ⚡
+Building Scalable Data Systems
 </p>
