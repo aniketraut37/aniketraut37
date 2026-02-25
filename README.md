@@ -1,6 +1,6 @@
-## Hi, I'm Aniket 👋
-
+# Aniket Raut
 Full Stack Developer | Data Engineering | AI Integration
+
 
 I build production-ready applications combining modern web technologies with data engineering and AI workflows.
 
