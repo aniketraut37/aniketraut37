@@ -1,4 +1,4 @@
-# AniketRaut## Hi, I'm Aniket 👋
+## Hi, I'm Aniket 👋
 
 Full Stack Developer | Data Engineering | AI Integration
 
